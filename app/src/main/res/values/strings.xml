@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">Linda Clean</string>
+<string name="guard_description">Linda Clean Pop-up Watch finds the app that opens ads by itself and closes known ad screens. It only sees which app opened. It never reads your screen, messages or passwords.</string>
+</resources>
