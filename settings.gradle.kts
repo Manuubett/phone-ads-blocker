@@ -1,4 +1,8 @@
 pluginManagement {
+    plugins {
+        id("com.android.application") version "8.7.3"
+        id("org.jetbrains.kotlin.android") version "1.9.25"
+    }
     repositories {
         google()
         mavenCentral()
